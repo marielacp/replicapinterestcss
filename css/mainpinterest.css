@@ -1,0 +1,50 @@
+
+header {
+position: fixed;
+width:100%;
+height: 30%;
+background: yellow;
+}
+
+
+
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background: #e9e9e9;
+}
+
+section{
+   /*position: relative;
+    top:120px;*/
+}
+.contenedor {
+    
+    width: 100%;
+    margin:15px;
+      
+}
+
+.elemento{
+ 
+  /*display: inline-block;*/
+  float: left;
+  width: 220px;
+  background: #fff;
+  margin: 15px;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 0 rgba(0,0,0,0.22);
+}
+
+img{
+    width: 220px;
+}
+
+.elemento p{
+    padding: 10px;
+    font-size: 15px;
+}

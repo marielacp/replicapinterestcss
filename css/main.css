@@ -1,0 +1,35 @@
+#galeria{
+    /*outline: 3px solid blue;*/
+    /*position: relative;*/
+    width: 100%;
+    padding: 1%;
+    overflow: auto;
+    font-family: sans-serif;
+   }
+
+.foto{
+    float: left;
+   }
+
+.foto p{
+    position: relative;
+    left: 45%;
+    transform: translatey(-220%);
+    font-size: 20px;
+    color: white;
+    margin: 0;
+}
+
+img {
+      box-sizing: border-box;
+      width: 300px;
+      height: 300px;
+      margin-left: 35   px;
+      margin-bottom: 2px;
+    }
+
+
+
+
+
+ 
